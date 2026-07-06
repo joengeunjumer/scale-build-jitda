@@ -1,4 +1,4 @@
-# SCALE BUILD (짓다 · JITDA)
+# SCALE BUILD 
 
 **A marketing lead engine + open-data pipeline for a facade-renovation business targeting aging buildings in Seoul.** Built through vibe coding (Claude Code) during my internship at Scale Virtual.
 
